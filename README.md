@@ -1,3 +1,7 @@
+To open the demo for the app , use this link:
+https://managetasksapp.netlify.app/
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
